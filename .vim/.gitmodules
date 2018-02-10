@@ -1,0 +1,18 @@
+[submodule "vim-puppet"]
+	path = bundle/puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "vim-nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim-go"]
+	path = bundle/go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim-ansible"]
+	path = bundle/ansible
+	url = https://github.com/pearofducks/ansible-vim
+[submodule "vim-jenkinsfile"]
+	path = bundle/jenkinsfile
+	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
+[submodule "vim-groovy"]
+	path = bundle/groovy
+	url = https://github.com/johnlim/vim-groovy.git
