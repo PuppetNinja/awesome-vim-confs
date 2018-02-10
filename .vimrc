@@ -11,7 +11,7 @@ filetype plugin indent on
 
 syntax on
 
-map <F2> :NERDTreeToggle<CR>
+map <F1> :NERDTreeToggle<CR>
 
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
