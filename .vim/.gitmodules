@@ -9,7 +9,7 @@
 	url = https://github.com/fatih/vim-go.git
 [submodule "vim-ansible"]
 	path = bundle/ansible
-	url = https://github.com/pearofducks/ansible-vim
+	url = https://github.com/pearofducks/ansible-vim.git
 [submodule "vim-jenkinsfile"]
 	path = bundle/jenkinsfile
 	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
